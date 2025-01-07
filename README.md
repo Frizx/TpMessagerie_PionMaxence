@@ -31,19 +31,16 @@ Assurez-vous d'avoir un navigateur moderne pour exécuter ce projet (Chrome, Fir
 2. Ouvrez le index.html avec votre navigateur internet
 
 
-3. Structure des fichier :
+## Structure des fichier :
    messagerie-web/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
 
-5. Utilisation :
+## Utilisation :
 
 Tapez un message dans la zone de texte.
 Cliquez sur le bouton "Ajouter" pour envoyer le message.
 Les messages apparaîtront alternativement à gauche ou à droite en fonction de l'ordre des envois (le premier à droite, le deuxième à gauche, et ainsi de suite).
-
-5. Fonctionnalité de redimensionnement du clavier : 
-Le champ de texte peut être redimensionné verticalement pour faciliter l'écriture de messages longs.
 
