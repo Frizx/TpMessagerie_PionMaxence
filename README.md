@@ -30,6 +30,7 @@ Assurez-vous d'avoir un navigateur moderne pour exécuter ce projet (Chrome, Fir
 
 2. Ouvrez le index.html avec votre navigateur internet
 
+
 3. Structure des fichier :
    messagerie-web/
 ├── index.html
@@ -37,7 +38,7 @@ Assurez-vous d'avoir un navigateur moderne pour exécuter ce projet (Chrome, Fir
 ├── script.js
 └── README.md
 
-4. Utilisation :
+5. Utilisation :
 
 Tapez un message dans la zone de texte.
 Cliquez sur le bouton "Ajouter" pour envoyer le message.
