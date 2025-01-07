@@ -30,14 +30,6 @@ Assurez-vous d'avoir un navigateur moderne pour exécuter ce projet (Chrome, Fir
 
 2. Ouvrez le index.html avec votre navigateur internet
 
-
-## Structure des fichier :
-   messagerie-web/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
 ## Utilisation :
 
 Tapez un message dans la zone de texte.
